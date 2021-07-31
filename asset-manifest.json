@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/monstar-roldex/static/css/main.c74bb91d.chunk.css",
+    "main.js": "/github.io/monstar-roldex/static/js/main.daa4bd24.chunk.js",
+    "main.js.map": "/github.io/monstar-roldex/static/js/main.daa4bd24.chunk.js.map",
+    "runtime-main.js": "/github.io/monstar-roldex/static/js/runtime-main.2eb34fea.js",
+    "runtime-main.js.map": "/github.io/monstar-roldex/static/js/runtime-main.2eb34fea.js.map",
+    "static/js/2.9e462393.chunk.js": "/github.io/monstar-roldex/static/js/2.9e462393.chunk.js",
+    "static/js/2.9e462393.chunk.js.map": "/github.io/monstar-roldex/static/js/2.9e462393.chunk.js.map",
+    "static/js/3.0d09bf21.chunk.js": "/github.io/monstar-roldex/static/js/3.0d09bf21.chunk.js",
+    "static/js/3.0d09bf21.chunk.js.map": "/github.io/monstar-roldex/static/js/3.0d09bf21.chunk.js.map",
+    "index.html": "/github.io/monstar-roldex/index.html",
+    "static/css/main.c74bb91d.chunk.css.map": "/github.io/monstar-roldex/static/css/main.c74bb91d.chunk.css.map",
+    "static/js/2.9e462393.chunk.js.LICENSE.txt": "/github.io/monstar-roldex/static/js/2.9e462393.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eb34fea.js",
+    "static/js/2.9e462393.chunk.js",
+    "static/css/main.c74bb91d.chunk.css",
+    "static/js/main.daa4bd24.chunk.js"
+  ]
+}
